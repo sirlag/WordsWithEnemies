@@ -1,0 +1,9 @@
+[package]
+
+name = "WordsWithEnemies"
+version = "0.0.1"
+authors = ["sirlag@sirlag.me"]
+
+[[bin]]
+
+name = "WWE"
